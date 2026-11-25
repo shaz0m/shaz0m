@@ -1,10 +1,10 @@
-<!-- Este ficheiro vai para o repositório PÚBLICO shaz0m/shaz0m (mesmo nome do utilizador). Aparece no topo do perfil. -->
+<!-- This file goes into the PUBLIC repository shaz0m/shaz0m (same name as the username). It shows at the top of the profile. -->
 
 <h1 align="center">Wendell Alves</h1>
 
 <p align="center">
-  Programador em formação · Portugal<br>
-  Aplicações de gestão em <b>Java</b>, <b>Kotlin</b>, <b>C#</b> e <b>Python</b>
+  Programmer · Portugal<br>
+  Management apps in <b>Java</b>, <b>Kotlin</b>, <b>C#</b> and <b>Python</b>
 </p>
 
 <p align="center">
@@ -23,37 +23,35 @@
 
 ---
 
-## Sobre mim
+## About me
 
-Estou a aprender a construir software a sério, projeto a projeto. Os meus trabalhos
-giram à volta de um mesmo problema, a **gestão de um ginásio** (clientes, treinadores,
-aulas e inscrições), que resolvi em várias tecnologias: Java desktop, ASP.NET Core,
-Python/Flask e uma app Android em Kotlin. Escrever a mesma ideia em linguagens
-diferentes ensinou-me o que é comum a todas (modelo de dados, login, perfis de
-utilizador) e o que muda de uma para a outra.
+I just finished my programming course and I learn by building, project by project.
+My work revolves around one problem, **gym management** (clients, trainers,
+classes and enrolments), which I solved in several technologies: Java desktop,
+ASP.NET Core, Python/Flask and an Android app in Kotlin. Writing the same idea in
+different languages taught me what they all share (data model, login, user roles)
+and what changes from one to another.
 
-- Formação em programação no IEFP.
-- Gosto de interfaces simples e de design monocromático (preto e branco).
-- Em cada projeto procuro ter um README que explique o problema, a arquitetura e como correr.
-
-<!-- Opcional, só se quiseres tornar público: local (ex. Porto), LinkedIn, email de contacto. -->
+- Graduated in programming (IEFP), November 2026.
+- I like simple interfaces and monochrome (black and white) design.
+- In every project I aim for a README that explains the problem, the architecture and how to run it.
 
 ---
 
-## Projetos em destaque
+## Featured projects
 
-| Projeto | O que é | Tecnologias |
+| Project | What it is | Tech |
 |---|---|---|
-| [**gym-management**](https://github.com/shaz0m/gym-management) | Aplicação web de gestão de ginásio: login, clientes, treinadores, aulas e inscrições. Projeto final do curso. | C# · ASP.NET Core MVC · Entity Framework Core · SQL Server |
-| [**kotlin-ginasio-app**](https://github.com/shaz0m/kotlin-ginasio-app) | App Android para treinadores e clientes: agenda, avaliações, progresso e captação de contactos. | Kotlin · Jetpack Compose |
-| [**projeto_Academia**](https://github.com/shaz0m/projeto_Academia) | Aplicação desktop de gestão de ginásio com login por perfis, organizada em camadas. | Java · Swing · MySQL (JDBC) |
-| [**bng_projeto_python**](https://github.com/shaz0m/bng_projeto_python) | Aplicação web em Flask com login, perfil de utilizador e coleção de jogos. | Python · Flask · MySQL |
-| [**gest-o-adamastor**](https://github.com/shaz0m/gest-o-adamastor) | Aplicação Windows Forms para gerir categorias de produtos e fornecedores. | C# · Windows Forms · Entity Framework |
-| [**GestorRH**](https://github.com/shaz0m/GestorRH) | Gestão de recursos humanos em Java. | Java |
+| [**gym-management**](https://github.com/shaz0m/gym-management) | Web app for gym management: login, clients, trainers, classes and enrolments. Final course project. | C# · ASP.NET Core MVC · Entity Framework Core · SQL Server |
+| [**kotlin-ginasio-app**](https://github.com/shaz0m/kotlin-ginasio-app) | Android app for trainers and clients: agenda, evaluations, progress and lead capture. | Kotlin · Jetpack Compose |
+| [**projeto_Academia**](https://github.com/shaz0m/projeto_Academia) | Desktop gym management app with role-based login, organised in layers. | Java · Swing · MySQL (JDBC) |
+| [**bng_projeto_python**](https://github.com/shaz0m/bng_projeto_python) | Flask web app with login, user profile and a game collection. | Python · Flask · MySQL |
+| [**gest-o-adamastor**](https://github.com/shaz0m/gest-o-adamastor) | Windows Forms app to manage product categories and suppliers. | C# · Windows Forms · Entity Framework |
+| [**GestorRH**](https://github.com/shaz0m/GestorRH) | Human resources management in Java. | Java |
 
 ---
 
-## Contacto
+## Contact
 
-Se quiseres falar sobre algum projeto, abre uma *issue* no repositório respetivo
-ou envia-me uma mensagem pelo GitHub.
+If you want to talk about any project, open an *issue* in the repository
+or send me a message on GitHub.
