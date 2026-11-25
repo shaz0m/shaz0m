@@ -3,7 +3,7 @@
 <h1 align="center">Wendell Alves</h1>
 
 <p align="center">
-  Programmer · Portugal<br>
+  Computer Programmer · Portugal<br>
   Management apps in <b>Java</b>, <b>Kotlin</b>, <b>C#</b> and <b>Python</b>
 </p>
 
@@ -25,14 +25,14 @@
 
 ## About me
 
-I just finished my programming course and I learn by building, project by project.
+I just graduated as a Computer Programmer (*Programador de Informática*) and I learn by building, project by project.
 My work revolves around one problem, **gym management** (clients, trainers,
 classes and enrolments), which I solved in several technologies: Java desktop,
 ASP.NET Core, Python/Flask and an Android app in Kotlin. Writing the same idea in
 different languages taught me what they all share (data model, login, user roles)
 and what changes from one to another.
 
-- Graduated in programming (IEFP), November 2026.
+- Graduated as a Computer Programmer (*Programador de Informática*), IEFP, November 2026.
 - I like simple interfaces and monochrome (black and white) design.
 - In every project I aim for a README that explains the problem, the architecture and how to run it.
 
